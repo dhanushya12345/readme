@@ -1,1 +1,5 @@
-# readme
+👋 Hi, I’m @dhanushya12345
+- 👀 I’m interested in 
+- 🌱 I’m currently 
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
